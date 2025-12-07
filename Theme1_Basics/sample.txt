@@ -1,0 +1,18 @@
+Heading: Introduction
+This section explains the basics of the project.
+
+Heading : Methodology
+We used Python 3.11 and several libraries.
+
+Figure: Workflow Diagram
+This image shows how data flows.
+
+Table: Raw Data
+Row 1: Apple, 5
+Row 2: Banana, 10
+
+HEADING: Results
+The outcome was successful.
+
+figure : Accuracy Plot
+table : Error Metrics
